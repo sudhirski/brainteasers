@@ -1,4 +1,3 @@
-package oracle.idaas.common.util;
 
 import com.google.common.base.Strings;
 
