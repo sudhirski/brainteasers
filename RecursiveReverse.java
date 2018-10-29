@@ -2,7 +2,7 @@
 import com.google.common.base.Strings;
 
 /**
- * @authod Sudhir Kumar.
+ * @author Sudhir Kumar.
  *
  * Class to recursively reverse a string.
  */
